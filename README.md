@@ -1,4 +1,4 @@
-# 👨‍💻 Software Engineer 
+# 👨‍💻 Frontend Developer
 
 <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> As a Frontend Developer, I've specialized in creating exceptional user experiences and intuitive interfaces across various digital platforms. My journey has equipped me with a robust set of skills, centered around React.js, that enables me to bring creative solutions to life, enhancing user engagement and satisfaction. <br/><br/>
 
